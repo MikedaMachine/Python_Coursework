@@ -1,2 +1,1 @@
-# Python_Coursework
-Some of my Python coursework for my Bachelors Degree
+This is some of my previous Python coursework for my Bachelors Degree.
